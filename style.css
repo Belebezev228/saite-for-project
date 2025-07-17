@@ -410,8 +410,6 @@ nav ul li a.active::after {
         .femida-tall-right {
           right: 0;
         }
-
-
 @media (max-width: 768px) {
   body {
     font-size: 15px;
