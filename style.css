@@ -286,7 +286,7 @@ nav ul li a.active::after {
 
 .section-subtitle {
   font-size: 18px;
-  margin-top: -10px;
+  margin-top: -0px;
   margin-bottom: 40px;
   color: #4b6289;
 }
