@@ -450,7 +450,7 @@ nav ul li a.active::after {
   main {
     overflow-y: auto;
     padding: 10px;
-    min-height: 100vh;
+    min-height: calc(100vh - 60px);
   }
 
   .services-section {
@@ -463,6 +463,7 @@ nav ul li a.active::after {
     align-items: center;
     gap: 20px;
     padding-bottom: 40px; 
+    margin-bottom: 20px;
   }
 
   .card {
