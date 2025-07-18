@@ -462,7 +462,7 @@ nav ul li a.active::after {
     flex-direction: column;
     align-items: center;
     gap: 20px;
-    padding-bottom: 40px; 
+    padding-bottom: 100px; 
     margin-bottom: 20px;
   }
 
